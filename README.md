@@ -12,12 +12,17 @@ Output: [[1, 2, 3, 4],
        [1, 2, 3, 4],
        [1, 2, 3, 4],
        [1, 2, 3, 4]]
+
+       
 Explanation: Converting rows into columns and columns into rows.
 Input: mat[][] =  [[1, 2],
                  [9, -2]]
 Output: [[1, 9],
         [2, -2]]
+
+        
 Explanation: Converting rows into columns and columns into rows.
+
 Constraints:
 1 ≤ n ≤ 103
 -109 ≤ mat[i][j] ≤109
